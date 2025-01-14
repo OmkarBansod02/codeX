@@ -45,7 +45,7 @@ async function Header() {
                 codeX
               </span>
               <span className="block text-xs text-blue-400/60 font-medium">
-                Interactive Code Editor
+                Community Code Editor
               </span>
             </div>
           </Link>
