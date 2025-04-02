@@ -12,7 +12,7 @@ Highlights:
 - 👤 Personal profile with execution history tracking.
 - 📊 Comprehensive statistics dashboard with responsive design
 - ⚙️ Customizable font size controls
-- 🔗 Webhook integration support
+- 🔗  Support for Webhook integration 
 - 🌟 Professional deployment walkthrough
 
 ### Setup .env file
